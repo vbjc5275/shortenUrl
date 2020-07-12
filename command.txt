@@ -1,0 +1,6 @@
+cd D:\user\shortUrl\env\Scripts
+D:
+cd ..
+cd ..
+set FLASK_ENV=development
+flask run
